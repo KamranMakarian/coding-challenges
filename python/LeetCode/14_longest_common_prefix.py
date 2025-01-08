@@ -13,3 +13,6 @@ class Solution:
             prefix.append(char)
             
         return "".join(prefix)
+    
+# Time Complexity: O(m x n) with n as number of strings and m as length of the shortest string.
+# Space Complexity: O(m)
