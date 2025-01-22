@@ -14,6 +14,8 @@ class Solution:
         return low
         
 '''
+Note: To achieve O(log n) runtime complexity, you should use a binary search algorithm.
+
 Complexity Analysis
 
 Time Complexity:
