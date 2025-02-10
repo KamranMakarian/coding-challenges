@@ -79,9 +79,3 @@ Return the result table in **any order**.
   - Experience: `(3 + 2) / 2 = 2.50`
 
 ---
-
-## **Topics**
-- SQL
-- Aggregation (`AVG`)
-- Grouping (`GROUP BY`)
-- Rounding (`ROUND`)
